@@ -76,8 +76,8 @@ public class Animal {
 		return color;
 	}
 	public String toString() {
-		return "This animal is a "+color+" colored "+nameAnimal+" with "+numEyes+" eyes, "+numHeads+" heads, "
-				+ " and "+numLegs+" legs.";
+		return "This animal is a "+color+"-colored "+nameAnimal+" with "+numEyes+" eyes, "+numHeads+" heads, "
+				+ "and "+numLegs+" legs.";
 	}
 
 }
